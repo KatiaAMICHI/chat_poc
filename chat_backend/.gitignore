@@ -1,0 +1,21 @@
+# Fichiers et dossiers spécifiques à Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers et dossiers spécifiques à Django
+*.pyc
+db.sqlite3
+__pycache__/
+media/
+
+# Fichiers spécifiques à PyCharm
+.idea/
+*.iml
+*.pyc
+*.pyo
+*.iws
+
+# Ignorer la base de données SQLite
+*.sqlite3
